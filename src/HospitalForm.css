@@ -1,0 +1,31 @@
+.cont .text {
+  font-size: 20px;
+  text-align: center;
+  font-weight: 500;
+  color: #fd7686;
+  text-decoration: underline;
+  letter-spacing: 0.5px;
+}
+.under-form-new{
+  margin-bottom: 0.5rem;
+}
+.mt-5{
+  margin-top: 0.7rem !important;
+}
+
+.mb-6{
+  margin-bottom: 1.4rem !important;
+}
+.medicine-section {
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #f7f7f7;
+  border-radius: 5px;
+}
+
+.medicine-placeholder {
+  text-align: center;
+  font-weight: bold;
+  color: red;
+  font-size: 16px;
+}
